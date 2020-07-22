@@ -1,0 +1,230 @@
+body {
+    margin: auto 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+nav.nav {
+    background-color: #0b2b9c;
+    width: 100%;
+    height: 105px;
+    position: relative;
+    /* float: right; */
+}
+
+.banner {
+    clear: both;
+}
+#mainimage {
+    left: 122px;
+    top: 90px;
+    position: relative;
+    border-radius: 5px;
+}
+nav ul {
+    float: right;
+    margin: 0px;
+    padding-top: 30px;
+    margin-right: 80px;
+}
+nav li {
+    display: inline-block;
+    margin: 20px;
+    margin-top: 9px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+nav h1 {
+    margin: 0px;
+    float: left;
+    margin-top: 11px;
+    margin-left: 120px;
+    color: white;
+    padding-top: 30px;
+}
+#contentbanner {
+    background-color: blue;
+    width: 100%;
+}
+#mango {
+    float: right;
+    clear: both;
+    color: white;
+    padding: 100px;
+    padding-right: 400px;
+    margin-top: -60px;
+}
+#mango h1 {
+    font-size: 58px;
+    font-family: "Poppins", sans-serif;
+}
+button {
+    color: blue;
+    font-weight: bold;
+}
+
+#butty {
+    background-color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    width: 193px;
+    height: 54px;
+    left: 533px;
+    top: 379px;
+}
+
+.logo {
+    float: right;
+    clear: both;
+    padding-right: 400px;
+    position: relative;
+    /* margin-top: 5px; */
+    margin-bottom: 40px;
+}
+.logo img {
+    margin-right: 30px;
+}
+.Courses {
+    background-color: #f7f7f7;
+    color-adjust: 20px;
+    width: 60%;
+    height: 690px;
+    left: 125px;
+    top: 69px;
+    margin-left: 120px;
+    clear: both;
+    padding-top: 20px;
+    margin-top: -15px;
+}
+.card-selection1,
+.card-selection2,
+.card-selection3 {
+    float: left;
+    margin-left: 40px;
+    border-bottom: #cbcbcb solid 1px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    padding-right: 40px;
+}
+.remove-border {
+    border: none;
+}
+
+#target {
+    margin-left: 40px;
+    padding-top: 3px;
+    padding-bottom: 15px;
+}
+.briefword1,
+.briefword2,
+.briefword3 {
+    float: right;
+    margin-top: -23px;
+    /* "margin-left: -60px;" */
+    color: black;
+    margin-left: 30px;
+}
+#click {
+    background-color: yellow;
+    width: 193px;
+    height: 35px;
+    border-radius: 6px;
+    color: white;
+    border: none;
+}
+#action {
+    background-color: #7c6eab;
+    width: 193px;
+    height: 35px;
+    border-radius: 6px;
+    color: white;
+    border: none;
+}
+#good1 {
+    background-color: #1742b5;
+    width: 193px;
+    height: 35px;
+    border-radius: 6px;
+    color: white;
+    border: none;
+}
+.studentabout {
+    float: right;
+}
+.press1,
+.press2,
+.press3 {
+    margin-left: 360px;
+    background-color: white;
+}
+.studentabout {
+    background-color: #00adef;
+    height: 680px;
+    margin-top: -710px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    clear: both;
+    float: right;
+}
+/* box-sizing: content-box; */
+/* position: relative; */
+
+#stud {
+    color: white;
+    padding-left: 40px;
+}
+figcaption {
+    box-sizing: border-box;
+    /* width: 216px; */
+    height: 67px;
+    background: white;
+    margin-top: -27px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+figcaption p {
+    line-height: 2px;
+}
+.mangoDB {
+    padding-top: 25px;
+}
+.mangoDB2 {
+    padding-top: 12px;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    height: 158px;
+    background-color: #f6f6f6;
+    margin-top: -50px;
+}
+.easy {
+    float: left;
+    margin: 58px;
+    padding-top: 35px;
+    width: 20%;
+}
+
+.traimage {
+    float: left;
+    margin-left: 124px;
+    padding-top: 30px;
+    border-radius: 6px;
+    width: 60%;
+    margin-bottom: -50px;
+}
+
+.foot {
+    padding-top: 60px;
+    padding-left: 120px;
+}
+.africa {
+    float: right;
+    margin-right: 100px;
+}
+.copy {
+    float: left;
+}
